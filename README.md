@@ -14,9 +14,9 @@ I build scalable, automated data systems that transform raw chaos into actionabl
 2. **Real-Time Gold & Bank Rate Analytics:** A cloud-native pipeline integrating **Terraform**, **Snowflake**, and **dbt** .
 3. **Crypto Pulse Lakehouse:** End-to-end crypto market ingestion using **Kestra** and **BigQuery** .
 4. **Data Quality Framework:** Automated CI/CD pipelines with **GitHub Actions** to ensure 100% data reliability .
-
 ### 📊 GitHub Stats
-![Abobakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abobakar-A&show_icons=true&theme=radical)
+![Abobakar's Stats](https://github-readme-stats.vercel.app/api?username=Abobakar-A&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abobakar-A&layout=compact&theme=radical)
 
 ### 🔗 Connect with me:
