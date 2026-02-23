@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Abobakar | Data Engineer 🚀
 
-<!--
-**Abobakar-A/Abobakar-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable, automated data systems that transform raw chaos into actionable insights. My focus is on creating high-performance ETL/ELT pipelines using the **Modern Data Stack**.
 
-Here are some ideas to get you started:
+### 🛠 What I Do:
+* **Orchestration & Automation:** Designing resilient workflows using **Apache Airflow** and **Kestra** [cite: 2026-01-27, 2026-01-23].
+* **High-Performance ETL:** Building lightning-fast processing engines with **Polars** and **Python** [cite: 2026-01-30].
+* **Cloud Data Warehousing:** Architecting solutions in **Snowflake** and **BigQuery** using **Medallion Architecture** [cite: 2026-01-31, 2026-01-23].
+* **Data Modeling & Quality:** Implementing robust transformation layers and integrity tests with **dbt** [cite: 2026-02-01].
+* **Infrastructure as Code (IaC):** Provisioning cloud resources automatically with **Terraform** and **Docker** [cite: 2026-01-22, 2026-01-27].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects:
+1. **Dynamic Incremental ETL (MySQL ➔ Snowflake):** A production-ready system featuring watermark logic and Polars-based processing.
+2. **Real-Time Gold & Bank Rate Analytics:** A cloud-native pipeline integrating **Terraform**, **Snowflake**, and **dbt** [cite: 2026-01-31].
+3. **Crypto Pulse Lakehouse:** End-to-end crypto market ingestion using **Kestra** and **BigQuery** [cite: 2026-01-23].
+4. **Data Quality Framework:** Automated CI/CD pipelines with **GitHub Actions** to ensure 100% data reliability [cite: 2026-01-30].
+
+### 📊 GitHub Stats
+![Abobakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abobakar-A&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abobakar-A&layout=compact&theme=radical)
+
+### 🔗 Connect with me:
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abobakar-suliman-b86049221/)
+[<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abobakarsuliman28@gmail.com)
+
+<br />
+<br />
+
+---
+**Goal:** Building data systems that are "Silent but Powerful."
+* **Focus:** Data Engineering, Pipeline Observability, and Cloud Scalability.
