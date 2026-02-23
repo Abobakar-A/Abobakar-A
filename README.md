@@ -15,9 +15,11 @@ I build scalable, automated data systems that transform raw chaos into actionabl
 3. **Crypto Pulse Lakehouse:** End-to-end crypto market ingestion using **Kestra** and **BigQuery** .
 4. **Data Quality Framework:** Automated CI/CD pipelines with **GitHub Actions** to ensure 100% data reliability .
 ### 📊 GitHub Stats
-![Abobakar's Stats](https://github-readme-stats.vercel.app/api?username=Abobakar-A&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abobakar-A&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abobakar-A&show_icons=true&theme=radical" alt="Abobakar-A's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abobakar-A&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ### 🔗 Connect with me:
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abobakar-suliman-b86049221/)
