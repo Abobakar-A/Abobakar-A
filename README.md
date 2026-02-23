@@ -3,17 +3,17 @@
 I build scalable, automated data systems that transform raw chaos into actionable insights. My focus is on creating high-performance ETL/ELT pipelines using the **Modern Data Stack**.
 
 ### 🛠 What I Do:
-* **Orchestration & Automation:** Designing resilient workflows using **Apache Airflow** and **Kestra** [cite: 2026-01-27, 2026-01-23].
-* **High-Performance ETL:** Building lightning-fast processing engines with **Polars** and **Python** [cite: 2026-01-30].
-* **Cloud Data Warehousing:** Architecting solutions in **Snowflake** and **BigQuery** using **Medallion Architecture** [cite: 2026-01-31, 2026-01-23].
-* **Data Modeling & Quality:** Implementing robust transformation layers and integrity tests with **dbt** [cite: 2026-02-01].
-* **Infrastructure as Code (IaC):** Provisioning cloud resources automatically with **Terraform** and **Docker** [cite: 2026-01-22, 2026-01-27].
+* **Orchestration & Automation:** Designing resilient workflows using **Apache Airflow** and **Kestra** .
+* **High-Performance ETL:** Building lightning-fast processing engines with **Polars** and **Python** .
+* **Cloud Data Warehousing:** Architecting solutions in **Snowflake** and **BigQuery** using **Medallion Architecture** .
+* **Data Modeling & Quality:** Implementing robust transformation layers and integrity tests with **dbt** .
+* **Infrastructure as Code (IaC):** Provisioning cloud resources automatically with **Terraform** and **Docker** .
 
 ### 🌟 Featured Projects:
 1. **Dynamic Incremental ETL (MySQL ➔ Snowflake):** A production-ready system featuring watermark logic and Polars-based processing.
-2. **Real-Time Gold & Bank Rate Analytics:** A cloud-native pipeline integrating **Terraform**, **Snowflake**, and **dbt** [cite: 2026-01-31].
-3. **Crypto Pulse Lakehouse:** End-to-end crypto market ingestion using **Kestra** and **BigQuery** [cite: 2026-01-23].
-4. **Data Quality Framework:** Automated CI/CD pipelines with **GitHub Actions** to ensure 100% data reliability [cite: 2026-01-30].
+2. **Real-Time Gold & Bank Rate Analytics:** A cloud-native pipeline integrating **Terraform**, **Snowflake**, and **dbt** .
+3. **Crypto Pulse Lakehouse:** End-to-end crypto market ingestion using **Kestra** and **BigQuery** .
+4. **Data Quality Framework:** Automated CI/CD pipelines with **GitHub Actions** to ensure 100% data reliability .
 
 ### 📊 GitHub Stats
 ![Abobakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abobakar-A&show_icons=true&theme=radical)
