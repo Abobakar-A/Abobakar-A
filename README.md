@@ -4,7 +4,7 @@ I build scalable, automated data systems that transform raw chaos into actionabl
 
 ### 🛠 What I Do:
 * **Orchestration & Automation:** Designing resilient workflows using **Apache Airflow** and **Kestra** .
-* **High-Performance ETL:** Building lightning-fast processing engines with **Polars** and **Python** .
+* **High-Performance ETL:** Building lightning-fast processing engines with  **Python** .
 * **Cloud Data Warehousing:** Architecting solutions in **Snowflake** and **BigQuery** using **Medallion Architecture** .
 * **Data Modeling & Quality:** Implementing robust transformation layers and integrity tests with **dbt** .
 * **Infrastructure as Code (IaC):** Provisioning cloud resources automatically with **Terraform** and **Docker** .
